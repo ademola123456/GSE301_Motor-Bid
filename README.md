@@ -1,0 +1,7 @@
+echo "# GSE301_Motor-Bid" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M Ademola
+git remote add origin https://github.com/ademola123456/GSE301_Motor-Bid.git
+git push -u origin Ademola
